@@ -1,6 +1,6 @@
 ### `Instructions`
 
-Clone Repository and change to directory by giving command cd web-app and type npm install. Enter following commands.
+Clone Repository and change to directory by giving command cd web-app and type npm install. Run following commands.
 
 ### `npm start`
 
